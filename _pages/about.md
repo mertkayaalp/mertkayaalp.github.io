@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year Ph.D. candidate at the School of Computer and Communication Sciences, École Polytechnique Fédérale de Lausanne (EPFL). I have been fortunate to be advised by Prof. Ali H. Sayed. 
+I am a final year Ph.D. candidate at the <a href="https://www.epfl.ch/schools/ic/">School of Computer and Communication Sciences</a>, <a href="https://www.epfl.ch/en/"> École Polytechnique Fédérale de Lausanne (EPFL)</a>. I am fortunate to be advised by <a href="https://people.epfl.ch/ali.sayed?lang=en">Prof. Ali H. Sayed</a>.
