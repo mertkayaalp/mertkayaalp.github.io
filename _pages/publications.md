@@ -6,7 +6,7 @@ author_profile: true
 ---
 <a href="https://scholar.google.com/citations?user=lT8OOuwAAAAJ&hl=tr">Click here for my Google Scholar profile.</a>
 
-## PUBLICATION LIST  # (last update: December 2023)
+## PUBLICATION LIST  (last update: December 2023)
 
 ### PRE-PRINTS
 
