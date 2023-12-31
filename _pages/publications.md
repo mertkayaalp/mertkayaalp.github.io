@@ -17,10 +17,10 @@ author_profile: true
 ### JOURNAL
 
 1. Mert Kayaalp, Virginia Bordignon, and Ali H. Sayed, "Social opinion formation and decision making under communication trends", *accepted for publication in IEEE Transactions on Signal Processing*, 2024, [arXiv:2203.02466](https://arxiv.org/abs/2203.02466) 
-2. Mert Kayaalp, Yunus Inan, Emre Telatar, and Ali H. Sayed, "On the arithmetic and geometric fusion of beliefs for distributed inference", *IEEE Transactions on Automatic Control*, November 2023, [arXiv:2204.13741](https://arxiv.org/abs/2204.13741) 
-3. Mert Kayaalp, Fatima Ghadieh, and Ali H. Sayed, ["Policy evaluation in decentralized POMDPs with belief sharing"](https://ieeexplore.ieee.org/abstract/document/10129007), *IEEE Open Journal of Control Systems*, vol. 2, pp. 125-145, June 2023
-4. Valentina Shumovskaia, Mert Kayaalp, Mert Cemri, and Ali H. Sayed, ["Discovering influencers in opinion formation over social graphs"](https://ieeexplore.ieee.org/document/10079214), *IEEE Open Journal of Signal Processing*, vol. 4, pp. 188-207, March 2023
-5. Mert Kayaalp, Stefan Vlaski, and Ali H. Sayed, ["Dif-MAML: Decentralized multi-agent meta-learning"](https://ieeexplore.ieee.org/document/9669064), *IEEE Open Journal of Signal Processing*, vol. 3, pp. 71-93, January 2022
+2. Mert Kayaalp, Yunus Inan, Emre Telatar, and Ali H. Sayed, "On the arithmetic and geometric fusion of beliefs for distributed inference", *IEEE Transactions on Automatic Control*, November 2023, [[arXiv](https://arxiv.org/abs/2204.13741)] [[IEEE](https://ieeexplore.ieee.org/abstract/document/10309154)]
+3. Mert Kayaalp, Fatima Ghadieh, and Ali H. Sayed, "Policy evaluation in decentralized POMDPs with belief sharing", *IEEE Open Journal of Control Systems*, vol. 2, pp. 125-145, June 2023, [[IEEE Open](https://ieeexplore.ieee.org/abstract/document/10129007)]
+4. Valentina Shumovskaia, Mert Kayaalp, Mert Cemri, and Ali H. Sayed, "Discovering influencers in opinion formation over social graphs", *IEEE Open Journal of Signal Processing*, vol. 4, pp. 188-207, March 2023, [[IEEE Open](https://ieeexplore.ieee.org/document/10079214)]
+5. Mert Kayaalp, Stefan Vlaski, and Ali H. Sayed, "Dif-MAML: Decentralized multi-agent meta-learning", *IEEE Open Journal of Signal Processing*, vol. 3, pp. 71-93, January 2022, [[IEEE Open](https://ieeexplore.ieee.org/document/9669064)]
 
 ### CONFERENCE
 
