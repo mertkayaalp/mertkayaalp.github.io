@@ -16,7 +16,7 @@ author_profile: true
 
 ### JOURNAL
 
-1. Mert Kayaalp, Virginia Bordignon, and Ali H. Sayed, "Social opinion formation and decision making under communication trends", *accepted for publication in IEEE Transactions on Signal Processing*, 2024, [arXiv:2203.02466](https://arxiv.org/abs/2203.02466) 
+1. Mert Kayaalp, Virginia Bordignon, and Ali H. Sayed, "Social opinion formation and decision making under communication trends", *IEEE Transactions on Signal Processing*, 2024, [[arXiv](https://arxiv.org/abs/2203.02466)] [[IEEE](https://ieeexplore.ieee.org/document/10378849)]
 2. Mert Kayaalp, Yunus Inan, Emre Telatar, and Ali H. Sayed, "On the arithmetic and geometric fusion of beliefs for distributed inference", *IEEE Transactions on Automatic Control*, November 2023, [[arXiv](https://arxiv.org/abs/2204.13741)] [[IEEE](https://ieeexplore.ieee.org/abstract/document/10309154)]
 3. Mert Kayaalp, Fatima Ghadieh, and Ali H. Sayed, "Policy evaluation in decentralized POMDPs with belief sharing", *IEEE Open Journal of Control Systems*, vol. 2, pp. 125-145, June 2023, [[IEEE Open](https://ieeexplore.ieee.org/abstract/document/10129007)]
 4. Valentina Shumovskaia, Mert Kayaalp, Mert Cemri, and Ali H. Sayed, "Discovering influencers in opinion formation over social graphs", *IEEE Open Journal of Signal Processing*, vol. 4, pp. 188-207, March 2023, [[IEEE Open](https://ieeexplore.ieee.org/document/10079214)]
