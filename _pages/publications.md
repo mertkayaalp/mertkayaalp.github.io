@@ -26,13 +26,13 @@ author_profile: true
 
 1. Valentina Shumovskaia, Mert Kayaalp, and Ali H. Sayed, "Distributed decision-making for community structured networks", *IEEE ICASSP*, Seoul, Korea, April 2024
 2. Virginia Bordignon, Mert Kayaalp, Vincenzo Matta, and Ali H. Sayed, "Social learning with non-Bayesian local updates", *EUSIPCO*, Helsinki, Finland, September 2023
-3. Mert Kayaalp, Yunus Inan, Visa Koivunen, Emre Telatar, and Ali H. Sayed, "On the fusion strategies for federated decision making", *IEEE Statistical Signal Processing Workshop (SSP)*, Hanoi, Vietnam, July 2023, **(award-winning article)**.
+3. Mert Kayaalp, Yunus Inan, Visa Koivunen, Emre Telatar, and Ali H. Sayed, "On the fusion strategies for federated decision making", *IEEE Statistical Signal Processing Workshop (SSP)*, Hanoi, Vietnam, July 2023, **(award-winning article)**, [[Extended version on arXiv](https://arxiv.org/abs/2303.06109)] [[IEEE](https://ieeexplore.ieee.org/document/10208062)]
 4. Valentina Shumovskaia, Mert Kayaalp, and Ali H. Sayed, "Identifying opinion influencers over social networks", *IEEE ICASSP*, Rhodes Island, Greece, June 2023
 5. Ping Hu, Virginia Bordignon, Mert Kayaalp, and Ali H. Sayed, "Performance of social machine learning under limited data", *IEEE ICASSP*, Rhodes Island, Greece, June 2023
 6. Mert Cemri, Virginia Bordignon, Mert Kayaalp, Valentina Shumovskaia, and Ali H. Sayed, "Asynchronous social learning", *IEEE ICASSP*, Rhodes Island, Greece, June 2023
-7. Yunus Inan, Mert Kayaalp, Emre Telatar, and Ali H. Sayed, "Social learning under randomized collaborations", *IEEE Int. Symp. Information Theory (ISIT)*, Helsinki, Finland, June 2022
-8. Mert Kayaalp, Virginia Bordignon, Stefan Vlaski, and Ali H. Sayed, "Hidden Markov modeling over graphs", *IEEE Data Science and Learning Workshop (DSLW)*, Singapore, May 2022
-9. Yunus Inan, Mert Kayaalp, Ali H. Sayed, and Emre Telatar, "A fundamental limit of distributed hypothesis testing under memoryless quantization", *IEEE ICC*, Seoul, South Korea, May 2022
+7. Yunus Inan, Mert Kayaalp, Emre Telatar, and Ali H. Sayed, "Social learning under randomized collaborations", *IEEE Int. Symp. Information Theory (ISIT)*, Helsinki, Finland, June 2022, [[arXiv](https://arxiv.org/abs/2201.10957)] [[IEEE](https://ieeexplore.ieee.org/abstract/document/9834621)]
+8. Mert Kayaalp, Virginia Bordignon, Stefan Vlaski, and Ali H. Sayed, "Hidden Markov modeling over graphs", *IEEE Data Science and Learning Workshop (DSLW)*, Singapore, May 2022, [[Extended version on arXiv](https://arxiv.org/abs/2212.02565)] [[IEEE](https://ieeexplore.ieee.org/abstract/document/9820077)]
+9. Yunus Inan, Mert Kayaalp, Ali H. Sayed, and Emre Telatar, "A fundamental limit of distributed hypothesis testing under memoryless quantization", *IEEE ICC*, Seoul, South Korea, May 2022, [[Extended version on arXiv](https://arxiv.org/abs/2206.12232)] [[IEEE](https://ieeexplore.ieee.org/abstract/document/9838646)]
 10. Mert Kayaalp, Stefan Vlaski, and Ali H. Sayed, "Distributed meta-learning with networked agents", *EUSIPCO*, Dublin, Ireland, August 2021
 
 
