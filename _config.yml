@@ -181,6 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  collaborators:
+    output: true
+    permalink: /:collection/:path/
   # portfolio:
   #   output: false
   #   permalink: /:collection/:path/
@@ -210,6 +213,15 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _collaborators
   - scope:
       path: ""
       type: teaching
@@ -290,15 +302,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
- # 
-  - scope:
-      path: "/collaborators"
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
