@@ -292,7 +292,7 @@ tag_archive:
   path: /tags/
  # 
   - scope:
-      path: /collaborators/
+      path: "/collaborators"
       type: teaching
     values:
       layout: single
