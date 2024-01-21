@@ -223,7 +223,7 @@ defaults:
       comments: true
   # _collaborators
   - scope:
-      path: ""
+      path: "\collaborators"
       type: teaching
     values:
       layout: single
