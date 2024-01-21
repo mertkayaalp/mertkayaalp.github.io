@@ -218,15 +218,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-    # 
-  - scope:
-      path: ""
-      type: collaborators
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -299,6 +290,15 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+ # 
+  - scope:
+      path: /collaborators/
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
