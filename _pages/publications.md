@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<a href="https://scholar.google.com/citations?user=lT8OOuwAAAAJ&hl=en">Click here for my Google Scholar profile.</a>
+<a href="https://scholar.google.com/citations?user=lT8OOuwAAAAJ&hl=en">[Google Scholar]</a>
 
 ## PUBLICATION LIST  (last update: December 2023)
 
