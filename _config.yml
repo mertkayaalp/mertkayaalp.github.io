@@ -181,9 +181,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  collaborators:
-    output: true
-    permalink: /:collection/:path/
   # portfolio:
   #   output: false
   #   permalink: /:collection/:path/
@@ -215,15 +212,6 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _collaborators
-  - scope:
-      path: "\collaborators"
       type: teaching
     values:
       layout: single
