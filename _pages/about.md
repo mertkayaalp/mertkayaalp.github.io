@@ -10,9 +10,7 @@ redirect_from:
 
 I am a PhD candidate at the School of Computer and Communication Sciences, École Polytechnique Fédérale de Lausanne (EPFL). I am fortunate to be advised by Prof. <a href="https://people.epfl.ch/ali.sayed?lang=en">Ali H. Sayed</a>.
 
-My main research interest lies in **social intelligence**, as exemplified in nature by human social networks and bee swarms. In complement to the prevalent focus on developing advanced artificial *individual* intelligence, my goal is to create systems designed for an inherently interconnected and modular world. 
-
-To achieve this, I leverage techniques from **machine learning**, **network science**, **signal processing**, **optimization**, and **control**, aiming to both understand and design the mechanisms of collective intelligence. 
+My research focuses on **decision-making and learning from data in interconnected and modular systems**. Drawing inspiration from real-world applications, I aim to develop interpretable solutions with theoretical guarantees. To achieve this, I leverage techniques from machine learning, signal processing, network science, optimization, and control. 
 
 For more details, please find my [C.V. here](http://mertkayaalp.github.io/files/cv.pdf) (last updated December 2023).
 
