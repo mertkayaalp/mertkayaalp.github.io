@@ -12,7 +12,7 @@ I am a PhD candidate at the School of Computer and Communication Sciences, Écol
 
 My research focuses on **decision-making and learning from data in interconnected and modular systems**. Drawing inspiration from real-world applications, I aim to develop interpretable solutions with theoretical guarantees. To achieve this, I leverage techniques from machine learning, signal processing, network science, optimization, and control. 
 
-For more details, please find my [C.V. here](http://mertkayaalp.github.io/files/cv.pdf) (last updated October 2024).
+For more details, please find my [C.V. here](http://mertkayaalp.github.io/files/cv.pdf) (last updated December 2024).
 
 Contact: firstname [dot] lastname [at] epfl [dot] ch
 
