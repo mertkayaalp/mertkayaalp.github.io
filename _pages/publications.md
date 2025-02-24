@@ -39,6 +39,10 @@ author_profile: true
 11. Yunus Inan, Mert Kayaalp, Ali H. Sayed, and Emre Telatar, "A fundamental limit of distributed hypothesis testing under memoryless quantization", *IEEE ICC*, Seoul, South Korea, May 2022, [[Extended version](https://arxiv.org/abs/2206.12232)] [[IEEE](https://ieeexplore.ieee.org/abstract/document/9838646)]
 12. Mert Kayaalp, Stefan Vlaski, and Ali H. Sayed, "Distributed meta-learning with networked agents", *EUSIPCO*, Dublin, Ireland, August 2021, [[Extended version](https://ieeexplore.ieee.org/document/9669064)] [[IEEE](https://ieeexplore.ieee.org/document/9616256)]
 
+### THESIS
+
+1. Mert Kayaalp, "Sequential Reasoning with Socially Caused Beliefs", Ph.D. Dissertation, School of Computer and Communication Sciences, École Polytechnique Fédérale de Lausanne, Switzerland [[EPFL Repository](https://infoscience.epfl.ch/entities/publication/4025eb83-c098-41ae-9a70-addcf53f5340)] [[Download PDF](https://mertkayaalp.github.io/files/EPFL_TH10489.pdf)] 
+
 
 
 
