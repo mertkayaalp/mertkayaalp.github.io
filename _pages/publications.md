@@ -41,7 +41,7 @@ author_profile: true
 
 ### THESIS
 
-1. Mert Kayaalp, "Sequential Reasoning with Socially Caused Beliefs", Ph.D. Dissertation, School of Computer and Communication Sciences, École Polytechnique Fédérale de Lausanne, Switzerland [[EPFL Repository](https://infoscience.epfl.ch/entities/publication/4025eb83-c098-41ae-9a70-addcf53f5340)] [[Download PDF](https://mertkayaalp.github.io/files/EPFL_TH10489.pdf)] 
+1. Mert Kayaalp, "Sequential Reasoning with Socially Caused Beliefs", Ph.D. Dissertation, School of Computer and Communication Sciences, École Polytechnique Fédérale de Lausanne [[EPFL Repository](https://infoscience.epfl.ch/entities/publication/4025eb83-c098-41ae-9a70-addcf53f5340)] [[Download PDF](https://mertkayaalp.github.io/files/EPFL_TH10489.pdf)] 
 
 
 
