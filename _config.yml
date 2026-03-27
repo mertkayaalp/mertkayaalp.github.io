@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mert Kayaalp"
   avatar           : "mert_profile2.jpg"
-  bio              : "Ph.D. Candidate at EPFL"
-  location         : "Lausanne, Switzerland"
+  bio              : "Researcher at IDSIA"
+  location         : "Lugano, Switzerland"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=lT8OOuwAAAAJ&hl=en&oi=ao"
-  email            :  "mert.kayaalp@epfl.ch"
+  email            :  "mert.kayaalp@idsia.ch"
   researchgate     :  "https://www.researchgate.net/profile/Mert-Kayaalp"
   uri              :
   bitbucket        :
