@@ -12,9 +12,7 @@ I am a research scientist at the Dalle Molle Institute for Artificial Intelligen
 
 I received my PhD in Computer Science from EPFL in 2025. 
 
-My research focuses on machine learning, signal processing, network science and causality. 
-
-For more details, please find my [C.V. here](http://mertkayaalp.github.io/files/cv.pdf) (last updated December 2024).
+My research focuses on machine learning, signal processing, network science and causality. For more details, please find my [C.V. here](http://mertkayaalp.github.io/files/cv.pdf) (last updated December 2024).
 
 Contact: firstname [dot] lastname [at] idsia [dot] ch
 
