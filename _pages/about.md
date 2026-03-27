@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the School of Computer and Communication Sciences, École Polytechnique Fédérale de Lausanne (EPFL). I am fortunate to be advised by Prof. <a href="https://people.epfl.ch/ali.sayed?lang=en">Ali H. Sayed</a>.
+I am a research scientist at the Dalle Molle Institute for Artificial Intelligence (IDSIA USI-SUPSI), where I am affiliated with the [UBS-IDSIA AI Lab](https://ai-finance.idsia.ch/ubs-idsia-ai-lab/). Previously, I was with the Amazon ML-Forecasting team in Berlin, and at École Polytechnique Fédérale de Lausanne (EPFL), where I earned my PhD in Computer Science in 2025.  
 
-My research focuses on **decision-making and learning from data in interconnected and modular systems**. Drawing inspiration from real-world applications, I aim to develop interpretable solutions with theoretical guarantees. To achieve this, I leverage techniques from machine learning, signal processing, network science, optimization, and control. 
+My research focuses on machine learning, signal processing, network science and causality. 
 
 For more details, please find my [C.V. here](http://mertkayaalp.github.io/files/cv.pdf) (last updated December 2024).
 
-Contact: firstname [dot] lastname [at] epfl [dot] ch
+Contact: firstname [dot] lastname [at] idsia [dot] ch
 
 
