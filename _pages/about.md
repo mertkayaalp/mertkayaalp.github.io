@@ -22,6 +22,6 @@ Contact: firstname [dot] lastname [at] idsia [dot] ch
 
 2. Mert Kayaalp, Caner Turkmen, Oleksandr Shchur et al., Test-time efficient pretrained model porfolios for time series forecasting, [ICLR 2026](https://arxiv.org/pdf/2510.06419?)
 
-3. Mert Kayaalp and Ali H. Sayed, Causal influences over social learning networks, [arXiv:2307.09575](https://arxiv.org/pdf/2307.09575)
+3. Mert Kayaalp and Ali H. Sayed, Causal influences over social learning networks, [Journal of Machine Learning Research](https://arxiv.org/pdf/2307.09575)
 
 
