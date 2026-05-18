@@ -6,31 +6,31 @@ author_profile: true
 ---
 <a href="https://scholar.google.com/citations?user=lT8OOuwAAAAJ&hl=en">[Google Scholar]</a>
 
-## PUBLICATION LIST  (last update: March 2026)
+## PUBLICATION LIST  (last update: May 2026)
 
 ### PRE-PRINTS
 
 1. Mert Kayaalp and Oleg Szehr, "Signal recovery from time and frequency samples", [arXiv:2603.16242](https://arxiv.org/abs/2603.16242)
-2. Mert Kayaalp and Ali H. Sayed, "Causal influences over social learning networks", [arXiv:2307.09575](https://arxiv.org/abs/2307.09575) 
 
 ### JOURNAL
 
-1. Mert Kayaalp, Caner Turkmen, Oleksandr Shchur, Pedro Mercado, Abdul Fatir Ansari, Michael Bohlke-Schneider, Bernie Wang, "Test-time efficient pretrained model portfolios for time series forecasting", *International Conference on Learning Representations*, Rio de Janeiro, Brazil, April 2026, [[arXiv](https://arxiv.org/abs/2510.06419)][[OpenReview](https://openreview.net/forum?id=iqUMjxfDNH)]
-2. Ping Hu, Mert Kayaalp, and Ali H. Sayed, "Minimizing the probability of error for decision making over graphs", *IEEE Open Journal of Signal Processing*, vol. 6, pp. 1139-1160, October 2025, [[IEEE Open](https://ieeexplore.ieee.org/abstract/document/11217991)]
-3. Ping Hu, Virginia Bordignon, Mert Kayaalp, and Ali H. Sayed, "Non-asymptotic performance of social machine learning under limited data", *Signal Processing*, p. 109849, December 2024, [[arXiv](https://arxiv.org/abs/2306.09397)][[ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0165168424004699)]
-4. Mert Kayaalp, Yunus Inan, Visa Koivunen, and Ali H. Sayed, "Causal influence in federated edge inference", *IEEE Transactions on Signal Processing*, vol. 72, pp. 5604-5615, November 2024 [[arXiv](https://arxiv.org/abs/2405.01260)] [[IEEE](https://ieeexplore.ieee.org/document/10771600)]
-5. Valentina Shumovskaia, Mert Kayaalp, and Ali H. Sayed, "Detection of malicious agents in social learning", *IEEE Signal Processing Letters*, vol. 31, pp. 1745-1749, July 2024, [[arXiv](https://arxiv.org/abs/2403.12619)] [[IEEE](https://ieeexplore.ieee.org/document/10579881)]
-6. Valentina Shumovskaia, Mert Kayaalp, and Ali H. Sayed, "Social learning in community structured graphs", *IEEE Transactions on Signal Processing*, vol. 72, pp. 2812-2826, May 2024, [[arXiv](https://arxiv.org/abs/2312.12186)] [[IEEE](https://ieeexplore.ieee.org/document/10531189)]
-7. Mert Kayaalp, Yunus Inan, Emre Telatar, and Ali H. Sayed, "On the arithmetic and geometric fusion of beliefs for distributed inference", *IEEE Transactions on Automatic Control*, vol. 69, no. 4, pp. 2265-2280, April 2024, [[arXiv](https://arxiv.org/abs/2204.13741)] [[IEEE](https://ieeexplore.ieee.org/document/10309154)]
-8. Mert Kayaalp, Virginia Bordignon, and Ali H. Sayed, "Social opinion formation and decision making under communication trends", *IEEE Transactions on Signal Processing*, vol. 72, pp. 506-520, January 2024, [[arXiv](https://arxiv.org/abs/2203.02466)] [[IEEE](https://ieeexplore.ieee.org/document/10378849)]
-9. Mert Kayaalp, Fatima Ghadieh, and Ali H. Sayed, "Policy evaluation in decentralized POMDPs with belief sharing", *IEEE Open Journal of Control Systems*, vol. 2, pp. 125-145, June 2023, [[IEEE Open](https://ieeexplore.ieee.org/abstract/document/10129007)]
-10. Valentina Shumovskaia, Mert Kayaalp, Mert Cemri, and Ali H. Sayed, "Discovering influencers in opinion formation over social graphs", *IEEE Open Journal of Signal Processing*, vol. 4, pp. 188-207, March 2023, [[IEEE Open](https://ieeexplore.ieee.org/document/10079214)]
-11. Mert Kayaalp, Stefan Vlaski, and Ali H. Sayed, "Dif-MAML: Decentralized multi-agent meta-learning", *IEEE Open Journal of Signal Processing*, vol. 3, pp. 71-93, January 2022, [[IEEE Open](https://ieeexplore.ieee.org/document/9669064)]
+1. Mert Kayaalp and Ali H. Sayed, "Causal influences over social learning networks", *Journal of Machine Learning Research*, 2026, [[arXiv](https://arxiv.org/abs/2307.09575)]
+2. Mert Kayaalp, Caner Turkmen, Oleksandr Shchur, Pedro Mercado, Abdul Fatir Ansari, Michael Bohlke-Schneider, Bernie Wang, "Test-time efficient pretrained model portfolios for time series forecasting", *International Conference on Learning Representations*, Rio de Janeiro, Brazil, April 2026, [[arXiv](https://arxiv.org/abs/2510.06419)][[OpenReview](https://openreview.net/forum?id=iqUMjxfDNH)]
+3. Ping Hu, Mert Kayaalp, and Ali H. Sayed, "Minimizing the probability of error for decision making over graphs", *IEEE Open Journal of Signal Processing*, vol. 6, pp. 1139-1160, October 2025, [[IEEE Open](https://ieeexplore.ieee.org/abstract/document/11217991)]
+4. Ping Hu, Virginia Bordignon, Mert Kayaalp, and Ali H. Sayed, "Non-asymptotic performance of social machine learning under limited data", *Signal Processing*, p. 109849, December 2024, [[arXiv](https://arxiv.org/abs/2306.09397)][[ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0165168424004699)]
+5. Mert Kayaalp, Yunus Inan, Visa Koivunen, and Ali H. Sayed, "Causal influence in federated edge inference", *IEEE Transactions on Signal Processing*, vol. 72, pp. 5604-5615, November 2024 [[arXiv](https://arxiv.org/abs/2405.01260)] [[IEEE](https://ieeexplore.ieee.org/document/10771600)]
+6. Valentina Shumovskaia, Mert Kayaalp, and Ali H. Sayed, "Detection of malicious agents in social learning", *IEEE Signal Processing Letters*, vol. 31, pp. 1745-1749, July 2024, [[arXiv](https://arxiv.org/abs/2403.12619)] [[IEEE](https://ieeexplore.ieee.org/document/10579881)]
+7. Valentina Shumovskaia, Mert Kayaalp, and Ali H. Sayed, "Social learning in community structured graphs", *IEEE Transactions on Signal Processing*, vol. 72, pp. 2812-2826, May 2024, [[arXiv](https://arxiv.org/abs/2312.12186)] [[IEEE](https://ieeexplore.ieee.org/document/10531189)]
+8. Mert Kayaalp, Yunus Inan, Emre Telatar, and Ali H. Sayed, "On the arithmetic and geometric fusion of beliefs for distributed inference", *IEEE Transactions on Automatic Control*, vol. 69, no. 4, pp. 2265-2280, April 2024, [[arXiv](https://arxiv.org/abs/2204.13741)] [[IEEE](https://ieeexplore.ieee.org/document/10309154)]
+9. Mert Kayaalp, Virginia Bordignon, and Ali H. Sayed, "Social opinion formation and decision making under communication trends", *IEEE Transactions on Signal Processing*, vol. 72, pp. 506-520, January 2024, [[arXiv](https://arxiv.org/abs/2203.02466)] [[IEEE](https://ieeexplore.ieee.org/document/10378849)]
+10. Mert Kayaalp, Fatima Ghadieh, and Ali H. Sayed, "Policy evaluation in decentralized POMDPs with belief sharing", *IEEE Open Journal of Control Systems*, vol. 2, pp. 125-145, June 2023, [[IEEE Open](https://ieeexplore.ieee.org/abstract/document/10129007)]
+11. Valentina Shumovskaia, Mert Kayaalp, Mert Cemri, and Ali H. Sayed, "Discovering influencers in opinion formation over social graphs", *IEEE Open Journal of Signal Processing*, vol. 4, pp. 188-207, March 2023, [[IEEE Open](https://ieeexplore.ieee.org/document/10079214)]
+12. Mert Kayaalp, Stefan Vlaski, and Ali H. Sayed, "Dif-MAML: Decentralized multi-agent meta-learning", *IEEE Open Journal of Signal Processing*, vol. 3, pp. 71-93, January 2022, [[IEEE Open](https://ieeexplore.ieee.org/document/9669064)]
 
 ### CONFERENCE
 
-1. Iris Yazici, Mert Kayaalp, Stefan Taga, and Ali H. Sayed, "Opinion consensus formation among networked large language models", *IEEE ICASSP*, Barcelona, Spain, May 2026, [[Extended version](https://arxiv.org/abs/2601.21540)]
-2. Zoya Firsova, Malek Khammassi, Mert Kayaalp, and Ali H. Sayed, "Non-Bayesian social learning for modeling interacting large language model agents", *IEEE ICASSP*, Barcelona, Spain, May 2026 
+1. Iris Yazici, Mert Kayaalp, Stefan Taga, and Ali H. Sayed, "Opinion consensus formation among networked large language models", *IEEE ICASSP*, Barcelona, Spain, May 2026, [[Extended version](https://arxiv.org/abs/2601.21540)], [[IEEE](https://ieeexplore.ieee.org/document/11460959)]
+2. Zoya Firsova, Malek Khammassi, Mert Kayaalp, and Ali H. Sayed, "Non-Bayesian social learning for modeling interacting large language model agents", *IEEE ICASSP*, Barcelona, Spain, May 2026, [[IEEE](https://ieeexplore.ieee.org/document/11462766)]
 3. Ping Hu, Mert Kayaalp, and Ali H. Sayed, "Test-time collective classification over multi-agent networks", *NeurIPS 2025 Workshop on Algorithmic Collective Action*, San Diego, US, December 2025, [[OpenReview](https://openreview.net/pdf?id=CCWS45F3XC)]
 4. Ping Hu, Mert Kayaalp, and Ali H. Sayed, "Optimal combination policies for error exponent maximization in social learning", *IEEE ICASSP*, Hyderabad, India, April 2025, [[Extended version](https://ieeexplore.ieee.org/abstract/document/11217991)][[IEEE](https://ieeexplore.ieee.org/abstract/document/10888519)]
 5. Mert Kayaalp, Yunus Inan, Visa Koivunen, and Ali H. Sayed, "Causal impact analysis for asynchronous decision making", *IEEE Int. Symp. Information Theory (ISIT)*, Athens, Greece, July 2024, [[Extended version](https://arxiv.org/abs/2405.01260)][[IEEE](https://ieeexplore.ieee.org/abstract/document/10619126)]
