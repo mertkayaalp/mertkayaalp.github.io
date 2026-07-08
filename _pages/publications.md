@@ -14,7 +14,7 @@ author_profile: true
 
 ### JOURNAL
 
-1. Mert Kayaalp and Ali H. Sayed, "Causal influences over social learning networks", *Journal of Machine Learning Research*, 2026, [[arXiv](https://arxiv.org/abs/2307.09575)]
+1. Mert Kayaalp and Ali H. Sayed, "Causal influences over social learning networks", *Journal of Machine Learning Research*, vol. 27, no. 56, pp. 1--54, 2026, [[JMLR](https://www.jmlr.org/papers/volume27/23-0910/23-0910.pdf)]
 2. Mert Kayaalp, Caner Turkmen, Oleksandr Shchur, Pedro Mercado, Abdul Fatir Ansari, Michael Bohlke-Schneider, Bernie Wang, "Test-time efficient pretrained model portfolios for time series forecasting", *International Conference on Learning Representations*, Rio de Janeiro, Brazil, April 2026, [[arXiv](https://arxiv.org/abs/2510.06419)][[OpenReview](https://openreview.net/forum?id=iqUMjxfDNH)]
 3. Ping Hu, Mert Kayaalp, and Ali H. Sayed, "Minimizing the probability of error for decision making over graphs", *IEEE Open Journal of Signal Processing*, vol. 6, pp. 1139-1160, October 2025, [[IEEE Open](https://ieeexplore.ieee.org/abstract/document/11217991)]
 4. Ping Hu, Virginia Bordignon, Mert Kayaalp, and Ali H. Sayed, "Non-asymptotic performance of social machine learning under limited data", *Signal Processing*, p. 109849, December 2024, [[arXiv](https://arxiv.org/abs/2306.09397)][[ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0165168424004699)]
