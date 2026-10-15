@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Mert Kayaalp"
   avatar           : "mert_profile2.jpg"
-  bio              : "Researcher at IDSIA"
-  location         : "Lugano, Switzerland"
+  bio              : 
+  location         : 
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=lT8OOuwAAAAJ&hl=en&oi=ao"
