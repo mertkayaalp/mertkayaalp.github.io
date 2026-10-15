@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Mert Kayaalp"
   avatar           : "mert_profile2.jpg"
-  bio              : 
-  location         : 
+  bio              :  # "ML Researcher" 
+  location         :  # "Switzerland"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=lT8OOuwAAAAJ&hl=en&oi=ao"
